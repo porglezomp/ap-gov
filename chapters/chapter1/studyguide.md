@@ -62,3 +62,35 @@ America's political cultures is based on:
 **Civil society** --- political literacy is necessary for informed voters, and activism is necessary to get things done. Civil society promotes both of these.
 
 **Individualism** --- in the same way that we're capitalist, we focus on bettering ourselves. Individualism shaped U.S. expansion, and is still central to the American dream. It's why we're scared of socialism.
+
+Currently, I feel that equality is the most driving of our politics, since most of the big issues in congress are over equality-ish things. Liberals are asking for freedoms and equality for gays, women, and more, and those things are advancing slowly right now.
+
+### 6)
+Politicals ideology is
+> A unified set of beliefs about the purpose and scope of government, held by groups or individuals.
+
+Ideologies can:
+
+- Help _explain_ why political conditions are how they are.
+- People use their ideology to _evaluate_ decisions. Your choices mirror your beliefs. You vote for people whose beliefs mirror your own.
+- _Orientation_ --- for many people their ideology can be part of their identity. They may have ideologies based on the fact that they're female, or Black, or many other different identites.
+
+### 7)
+
+#### **Conservatives**
+Generally pro small-government, don't want change. They prefer less regulation and prefer local government to federal government. They generally believe that social problems aren't the purview of the government.
+
+**Social conservatives** are highly religious conservatives.
+
+#### **Liberals**
+Want change, they generally value equality very highly. Support good welfare programs, and other programs of the Federal government helping individuals.
+
+#### **Libertarians**
+Don't want government interference, want a free market.
+
+These labels are generally don't fit individuals very well, because most people have opinions per-issue, and they're not necessarily consistantly conservative or liberal about things.
+
+### 8)
+Demographics are the characteristics of the population as a whole. It includes things like race and ethnicicty.
+
+

@@ -9,7 +9,10 @@ repo: "porglezomp.github.io/porglezomp/ap-gov"
 
 url: "http://localhost:5000"
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: ["smart"]
+
 permalink: pretty
 highlighter: pygments
 
