@@ -1,0 +1,22 @@
+name: "Government"
+description: "A site to use for my AP Government notes."
+chapters: [1]
+
+email: "bionicle.dragon@gmail.com"
+github: "porglezomp"
+twitter: "stickfigure42"
+repo: "porglezomp.github.io/porglezomp/ap-gov"
+
+url: "//porglezomp.github.io/ap-gov"
+baseurl: "/ap-gov"
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
